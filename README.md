@@ -1,1 +1,0 @@
-# shopping-manager.github.io
